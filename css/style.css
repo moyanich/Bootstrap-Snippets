@@ -1,0 +1,36 @@
+/*button styles */
+.btn.btn-round {
+	padding: 8px 25px;   
+	text-shadow: none;
+	box-shadow: none;
+	transition: all 0.12s linear 0s !important;	
+	color: #fff;
+    font-weight: 600;	
+	border-radius: 20px;
+		-webkit-border-radius: 20px;
+		-moz-border-radius: 20px;
+}
+.btn-round.color1 {
+	background-color:#344D90;
+	border-color:#344D90;
+
+}
+.btn-round.color2 {
+	background-color:#5CC5EF;
+	border-color:#5CC5EF;
+
+}
+.btn-round.color3 {
+	background-color:#FFB745;
+	border-color:#FFB745;
+
+}
+.btn-round.color4 {
+	background-color:#E7552C;
+	border-color:#E7552C;
+
+}
+
+.btn.btn-round:focus, .btn.btn-round:hover {
+    color:#fff;   
+}
